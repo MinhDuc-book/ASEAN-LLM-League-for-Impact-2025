@@ -36,6 +36,5 @@ In the **ASEAN LLM League for Impact 2025** competition, I had the opportunity t
   Participating in the competition provided valuable insights into the challenges and solutions when working with large-scale AI models.
 
 ## Contact
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **Email:** [mduc7325@gmail.com](mailto:mduc7325@gmail)  
+- **LinkedIn:** [Nguyễn Minh Đức](https://www.linkedin.com/in/nguyễn-minh-đức-181899343)  
