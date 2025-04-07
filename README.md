@@ -42,7 +42,7 @@ Tool:
 
 ## Achievements
 **Improved Model Performance:**  
-  - Increased accuracy by **59%** compared to the baseline model
+  - Increased accuracy by **59%** compared to the standard model of the organizing committee
 
 ## Detail About Best Submit Model:
 - 
@@ -51,7 +51,7 @@ Tool:
   - Successfully apply LoRA technique and optimize dataset, improve model inference ability
   
 **Competition Ranking:**  
-  - Achieved **Top 20** of ASEAN and **Top 2** of Vietnam in competition
+  - Achieved **Top 30** of ASEAN and **Top 3** of Vietnam in competition
 
 ## Key Learnings
 **Optimization of Training Pipeline:**  
