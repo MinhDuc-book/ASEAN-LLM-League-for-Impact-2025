@@ -43,17 +43,6 @@ Tool:
 ## Achievements
 **Improved Model Performance:**  
   - Increased accuracy by **59%** compared to the standard model of the organizing committee
-  - Detail about best model: [Best Model Report](https://github.com/MinhDuc-book/ASEAN-LLM-League-for-Impact-2025/tree/main/BestModelReport)
-  - Several hyperparameters are adjusted:
-    + Epoch: 75 - 100
-    + Learning rate: 0.00025 - 0.0003
-    + Lora R: 64 - 128
-    + Lora Alpha: 128 - 256
-    + Lora Dropout: 0.2 - 0.3
-    + Instruction - Train the model: True (required)
-    + Chat Dataset Format: False (required)
-    + Per Device Train Batch Size: 4
-    + Per Device Evaluation Batch Size: 4
   
 **Technical Contributions:**  
   - Successfully apply LoRA technique and optimize dataset, improve model inference ability
@@ -70,3 +59,16 @@ Tool:
   - Participating in the competition provided valuable insights into the challenges and solutions when working with large-scale AI models
   - Learn to build future-ready Generative AI applications
 
+## Detail About Best Model:
+**Name Of Best Model: Conqueror-Max2**
+  - Detail about best model: [Best Model Report](https://github.com/MinhDuc-book/ASEAN-LLM-League-for-Impact-2025/tree/main/BestModelReport)
+  - Several hyperparameters are adjusted:
+    + Epoch: 75 - 100
+    + Learning rate: 0.00025 - 0.0003
+    + Lora R: 64 - 128
+    + Lora Alpha: 128 - 256
+    + Lora Dropout: 0.2 - 0.3
+    + Instruction - Train the model: True (required)
+    + Chat Dataset Format: False (required)
+    + Per Device Train Batch Size: 4
+    + Per Device Evaluation Batch Size: 4
