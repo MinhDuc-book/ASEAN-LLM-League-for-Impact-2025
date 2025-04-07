@@ -43,9 +43,7 @@ Tool:
 ## Achievements
 **Improved Model Performance:**  
   - Increased accuracy by **59%** compared to the standard model of the organizing committee
-
-## Detail About Best Submit Model:
-- 
+  - Detail about best model: [Best Model Report](https://github.com/MinhDuc-book/ASEAN-LLM-League-for-Impact-2025/tree/main/BestModelReport)
   
 **Technical Contributions:**  
   - Successfully apply LoRA technique and optimize dataset, improve model inference ability
