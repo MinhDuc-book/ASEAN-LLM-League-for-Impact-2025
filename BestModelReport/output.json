@@ -1,0 +1,35 @@
+{
+    "evaluations": [
+        {
+            "evaluation_name": "qa_accuracy",
+            "dataset_name": "qa_accuracy-byo-dataset-0",
+            "prompt_template": "$model_input",
+            "dataset_scores": [
+                {
+                    "name": "f1_score",
+                    "value": 0.22735665832141408
+                },
+                {
+                    "name": "exact_match_score",
+                    "value": 0.0
+                },
+                {
+                    "name": "quasi_exact_match_score",
+                    "value": 0.0
+                },
+                {
+                    "name": "precision_over_words",
+                    "value": 0.21938896025397486
+                },
+                {
+                    "name": "recall_over_words",
+                    "value": 0.2865588090244189
+                },
+                {
+                    "name": "bertscore",
+                    "value": 0.4710659831762314
+                }
+            ]
+        }
+    ]
+}
