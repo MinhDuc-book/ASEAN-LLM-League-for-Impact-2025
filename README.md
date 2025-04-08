@@ -1,7 +1,7 @@
 # ASEAN LLM League for Impact 2025 - Fine-tuning AI Journey
 
 ## Introduction
-In the **ASEAN LLM League for Impact 2025** competition, I had the opportunity to participate in a challenge focused on fine-tuning large models to optimize performance. This repository summarizes my journey, experiments, and key achievements in AI fine-tuning. 
+In the **ASEAN LLM League for Impact 2025** competition, I had the opportunity to participate in a challenge focused on fine-tuning large models to optimize performance. This repository summarizes my journey, experiments, and key achievements in AI fine-tuning. Through this experience, I gained valuable hands-on expertise in fine-tuning techniques and deepened my understanding of model behavior under domain-specific constraints.
 
 ## Abstract
 Organizer: AI Singapore
