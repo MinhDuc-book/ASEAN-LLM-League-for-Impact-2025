@@ -63,12 +63,12 @@ Tool:
 **Name Of Best Model: Conqueror-Max2**
   - Detail about best model: [Best Model Report](https://github.com/MinhDuc-book/ASEAN-LLM-League-for-Impact-2025/tree/main/BestModelReport)
   - Several hyperparameters are adjusted:
-    + Epoch: 75 - 100
-    + Learning rate: 0.00025 - 0.0003
-    + Lora R: 64 - 128
-    + Lora Alpha: 128 - 256
-    + Lora Dropout: 0.2 - 0.3
+    + Epoch: 75 - 100 (Make model learn more and deeper)
+    + Learning rate: 0.00025 - 0.0003 ( Smooth learning process and increase stability)
+    + Lora R: 64 - 128 (Fit to size of dataset for learning more with less RAM/GPU)
+    + Lora Alpha: 128 - 256 (Often twice as much as Lora)
+    + Lora Dropout: 0.2 - 0.3 (Avoid learning by rote, avoid overfitting and generalize)
     + Instruction - Train the model: True (required)
     + Chat Dataset Format: False (required)
-    + Per Device Train Batch Size: 4
-    + Per Device Evaluation Batch Size: 4
+    + Per Device Train Batch Size: 4 (Suitable for dataset and other setting)
+    + Per Device Evaluation Batch Size: 4 (Suitable for dataset and other setting)
