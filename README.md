@@ -70,5 +70,14 @@ Tool:
     + Lora Dropout: 0.2 - 0.3 (Avoid learning by rote, avoid overfitting and generalize)
     + Instruction - Train the model: True (required)
     + Chat Dataset Format: False (required)
-    + Per Device Train Batch Size: 4 (Suitable for dataset and other setting)
-    + Per Device Evaluation Batch Size: 4 (Suitable for dataset and other setting)
+    + Per Device Train Batch Size: 4 (Suitable for dataset and other hyperparameters)
+    + Per Device Evaluation Batch Size: 4 (Suitable for dataset and other hyperparameters)
+  - Purpose of each hyperparameters:
+    + Epoch: Make model learn more and deeper
+    + Learning rate: Smooth learning process and increase stability
+    + Lora R: Fit to size of dataset for learning more with less RAM/GPU
+    + Lora Alpha: Often twice as much as Lora
+    + Lora Dropout: Avoid learning by rote, avoid overfitting and generalize
+    + Per Device Train Batch Size: Suitable for dataset and other hyperparameters
+    + Per Device Evaluation Batch Size: Suitable for dataset and other hyperparameters
+      
